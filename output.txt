@@ -1,0 +1,1777 @@
+.
+├── old
+│   ├── embeddin
+│   │   ├── 2community_legend_two_rows2.png
+│   │   ├── community_legend_horizontal.png
+│   │   ├── community_legend_two_rows.png
+│   │   ├── degree
+│   │   │   ├── G-2021-07-25.csv_degree_distribution.png
+│   │   │   ├── G-2021-07-25.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-08-01.csv_degree_distribution.png
+│   │   │   ├── G-2021-08-01.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-08-08.csv_degree_distribution.png
+│   │   │   ├── G-2021-08-08.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-08-15.csv_degree_distribution.png
+│   │   │   ├── G-2021-08-15.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-08-22.csv_degree_distribution.png
+│   │   │   ├── G-2021-08-22.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-08-29.csv_degree_distribution.png
+│   │   │   ├── G-2021-08-29.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-09-05.csv_degree_distribution.png
+│   │   │   ├── G-2021-09-05.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-09-12.csv_degree_distribution.png
+│   │   │   ├── G-2021-09-12.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-09-19.csv_degree_distribution.png
+│   │   │   ├── G-2021-09-19.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-09-26.csv_degree_distribution.png
+│   │   │   ├── G-2021-09-26.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-10-03.csv_degree_distribution.png
+│   │   │   ├── G-2021-10-03.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-10-10.csv_degree_distribution.png
+│   │   │   ├── G-2021-10-10.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-10-17.csv_degree_distribution.png
+│   │   │   ├── G-2021-10-17.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-10-24.csv_degree_distribution.png
+│   │   │   ├── G-2021-10-24.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-10-31.csv_degree_distribution.png
+│   │   │   ├── G-2021-10-31.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-11-07.csv_degree_distribution.png
+│   │   │   ├── G-2021-11-07.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-11-14.csv_degree_distribution.png
+│   │   │   ├── G-2021-11-14.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-11-21.csv_degree_distribution.png
+│   │   │   ├── G-2021-11-21.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-11-28.csv_degree_distribution.png
+│   │   │   ├── G-2021-11-28.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-12-05.csv_degree_distribution.png
+│   │   │   ├── G-2021-12-05.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-12-12.csv_degree_distribution.png
+│   │   │   ├── G-2021-12-12.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-12-19.csv_degree_distribution.png
+│   │   │   ├── G-2021-12-19.csv_log_degree_distribution.png
+│   │   │   ├── G-2021-12-26.csv_degree_distribution.png
+│   │   │   ├── G-2021-12-26.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-01-02.csv_degree_distribution.png
+│   │   │   ├── G-2022-01-02.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-01-09.csv_degree_distribution.png
+│   │   │   ├── G-2022-01-09.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-01-16.csv_degree_distribution.png
+│   │   │   ├── G-2022-01-16.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-01-23.csv_degree_distribution.png
+│   │   │   ├── G-2022-01-23.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-01-30.csv_degree_distribution.png
+│   │   │   ├── G-2022-01-30.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-02-06.csv_degree_distribution.png
+│   │   │   ├── G-2022-02-06.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-02-13.csv_degree_distribution.png
+│   │   │   ├── G-2022-02-13.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-02-20.csv_degree_distribution.png
+│   │   │   ├── G-2022-02-20.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-02-27.csv_degree_distribution.png
+│   │   │   ├── G-2022-02-27.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-03-06.csv_degree_distribution.png
+│   │   │   ├── G-2022-03-06.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-03-13.csv_degree_distribution.png
+│   │   │   ├── G-2022-03-13.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-03-20.csv_degree_distribution.png
+│   │   │   ├── G-2022-03-20.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-03-27.csv_degree_distribution.png
+│   │   │   ├── G-2022-03-27.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-04-03.csv_degree_distribution.png
+│   │   │   ├── G-2022-04-03.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-04-10.csv_degree_distribution.png
+│   │   │   ├── G-2022-04-10.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-04-17.csv_degree_distribution.png
+│   │   │   ├── G-2022-04-17.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-04-24.csv_degree_distribution.png
+│   │   │   ├── G-2022-04-24.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-05-01.csv_degree_distribution.png
+│   │   │   ├── G-2022-05-01.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-05-08.csv_degree_distribution.png
+│   │   │   ├── G-2022-05-08.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-05-15.csv_degree_distribution.png
+│   │   │   ├── G-2022-05-15.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-05-22.csv_degree_distribution.png
+│   │   │   ├── G-2022-05-22.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-05-29.csv_degree_distribution.png
+│   │   │   ├── G-2022-05-29.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-06-05.csv_degree_distribution.png
+│   │   │   ├── G-2022-06-05.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-06-12.csv_degree_distribution.png
+│   │   │   ├── G-2022-06-12.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-06-19.csv_degree_distribution.png
+│   │   │   ├── G-2022-06-19.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-06-26.csv_degree_distribution.png
+│   │   │   ├── G-2022-06-26.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-07-03.csv_degree_distribution.png
+│   │   │   ├── G-2022-07-03.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-07-10.csv_degree_distribution.png
+│   │   │   ├── G-2022-07-10.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-07-17.csv_degree_distribution.png
+│   │   │   ├── G-2022-07-17.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-07-24.csv_degree_distribution.png
+│   │   │   ├── G-2022-07-24.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-07-31.csv_degree_distribution.png
+│   │   │   ├── G-2022-07-31.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-08-07.csv_degree_distribution.png
+│   │   │   ├── G-2022-08-07.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-08-14.csv_degree_distribution.png
+│   │   │   ├── G-2022-08-14.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-08-21.csv_degree_distribution.png
+│   │   │   ├── G-2022-08-21.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-08-28.csv_degree_distribution.png
+│   │   │   ├── G-2022-08-28.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-09-04.csv_degree_distribution.png
+│   │   │   ├── G-2022-09-04.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-09-11.csv_degree_distribution.png
+│   │   │   ├── G-2022-09-11.csv_log_degree_distribution.png
+│   │   │   ├── G-2022-09-18.csv_degree_distribution.png
+│   │   │   └── G-2022-09-18.csv_log_degree_distribution.png
+│   │   ├── edge_log.csv
+│   │   ├── emotionall.csv
+│   │   ├── final_emotions.csv
+│   │   ├── final.txt
+│   │   ├── final_with_sentiment.csv
+│   │   ├── G-2021-03-15.csv
+│   │   ├── G-2021-03-22.csv
+│   │   ├── G-2021-03-31.csv
+│   │   ├── G-2021-04-13.csv
+│   │   ├── G-2021-04-20.csv
+│   │   ├── G-2021-04-25.csv
+│   │   ├── G-2021-04-29.csv
+│   │   ├── G-2021-05-02.csv
+│   │   ├── G-2021-05-07.csv
+│   │   ├── G-2021-05-15.csv
+│   │   ├── G-2021-05-20.csv
+│   │   ├── G-2021-05-21.csv
+│   │   ├── G-2021-05-24.csv
+│   │   ├── G-2021-05-27.csv
+│   │   ├── G-2021-06-07.csv
+│   │   ├── G-2021-06-09.csv
+│   │   ├── G-2021-06-11.csv
+│   │   ├── G-2021-06-13.csv
+│   │   ├── G-2021-06-14.csv
+│   │   ├── G-2021-06-15.csv
+│   │   ├── G-2021-06-16.csv
+│   │   ├── G-2021-06-17.csv
+│   │   ├── G-2021-06-19.csv
+│   │   ├── G-2021-06-22.csv
+│   │   ├── G-2021-06-23.csv
+│   │   ├── G-2021-06-24.csv
+│   │   ├── G-2021-06-25.csv
+│   │   ├── G-2021-06-28.csv
+│   │   ├── G-2021-06-29.csv
+│   │   ├── G-2021-07-02.csv
+│   │   ├── G-2021-07-05.csv
+│   │   ├── G-2021-07-06.csv
+│   │   ├── G-2021-07-07.csv
+│   │   ├── G-2021-07-08.csv
+│   │   ├── G-2021-07-10.csv
+│   │   ├── G-2021-07-12.csv
+│   │   ├── G-2021-07-14.csv
+│   │   ├── G-2021-07-16.csv
+│   │   ├── G-2021-07-17.csv
+│   │   ├── G-2021-07-18.csv
+│   │   ├── G-2021-07-19.csv
+│   │   ├── G-2021-07-21.csv
+│   │   ├── G-2021-07-22.csv
+│   │   ├── G-2021-07-23.csv
+│   │   ├── G-2021-07-24.csv
+│   │   ├── G-2021-07-25.csv
+│   │   ├── G-2021-07-26.csv
+│   │   ├── G-2021-07-27.csv
+│   │   ├── G-2021-07-28.csv
+│   │   ├── G-2021-07-29.csv
+│   │   ├── G-2021-07-30.csv
+│   │   ├── G-2021-07-31.csv
+│   │   ├── G-2021-08-01.csv
+│   │   ├── G-2021-08-02.csv
+│   │   ├── G-2021-08-03.csv
+│   │   ├── G-2021-08-04.csv
+│   │   ├── G-2021-08-05.csv
+│   │   ├── G-2021-08-06.csv
+│   │   ├── G-2021-08-07.csv
+│   │   ├── G-2021-08-08.csv
+│   │   ├── G-2021-08-09.csv
+│   │   ├── G-2021-08-10.csv
+│   │   ├── G-2021-08-11.csv
+│   │   ├── G-2021-08-12.csv
+│   │   ├── G-2021-08-13.csv
+│   │   ├── G-2021-08-14.csv
+│   │   ├── G-2021-08-15.csv
+│   │   ├── G-2021-08-16.csv
+│   │   ├── G-2021-08-17.csv
+│   │   ├── G-2021-08-18.csv
+│   │   ├── G-2021-08-19.csv
+│   │   ├── G-2021-08-20.csv
+│   │   ├── G-2021-08-21.csv
+│   │   ├── G-2021-08-22.csv
+│   │   ├── G-2021-08-23.csv
+│   │   ├── G-2021-08-24.csv
+│   │   ├── G-2021-08-25.csv
+│   │   ├── G-2021-08-26.csv
+│   │   ├── G-2021-08-27.csv
+│   │   ├── G-2021-08-28.csv
+│   │   ├── G-2021-08-29.csv
+│   │   ├── G-2021-08-30.csv
+│   │   ├── G-2021-08-31.csv
+│   │   ├── G-2021-09-01.csv
+│   │   ├── G-2021-09-02.csv
+│   │   ├── G-2021-09-03.csv
+│   │   ├── G-2021-09-04.csv
+│   │   ├── G-2021-09-05.csv
+│   │   ├── G-2021-09-06.csv
+│   │   ├── G-2021-09-07.csv
+│   │   ├── G-2021-09-08.csv
+│   │   ├── G-2021-09-09.csv
+│   │   ├── G-2021-09-10.csv
+│   │   ├── G-2021-09-11.csv
+│   │   ├── G-2021-09-12.csv
+│   │   ├── G-2021-09-13.csv
+│   │   ├── G-2021-09-14.csv
+│   │   ├── G-2021-09-15.csv
+│   │   ├── G-2021-09-16.csv
+│   │   ├── G-2021-09-17.csv
+│   │   ├── G-2021-09-18.csv
+│   │   ├── G-2021-09-19.csv
+│   │   ├── G-2021-09-20.csv
+│   │   ├── G-2021-09-21.csv
+│   │   ├── G-2021-09-22.csv
+│   │   ├── G-2021-09-23.csv
+│   │   ├── G-2021-09-24.csv
+│   │   ├── G-2021-09-25.csv
+│   │   ├── G-2021-09-26.csv
+│   │   ├── G-2021-09-27.csv
+│   │   ├── G-2021-09-28.csv
+│   │   ├── G-2021-09-29.csv
+│   │   ├── G-2021-09-30.csv
+│   │   ├── G-2021-10-01.csv
+│   │   ├── G-2021-10-02.csv
+│   │   ├── G-2021-10-03.csv
+│   │   ├── G-2021-10-04.csv
+│   │   ├── G-2021-10-05.csv
+│   │   ├── G-2021-10-06.csv
+│   │   ├── G-2021-10-07.csv
+│   │   ├── G-2021-10-08.csv
+│   │   ├── G-2021-10-09.csv
+│   │   ├── G-2021-10-10.csv
+│   │   ├── G-2021-10-11.csv
+│   │   ├── G-2021-10-12.csv
+│   │   ├── G-2021-10-13.csv
+│   │   ├── G-2021-10-14.csv
+│   │   ├── G-2021-10-15.csv
+│   │   ├── G-2021-10-16.csv
+│   │   ├── G-2021-10-17.csv
+│   │   ├── G-2021-10-18.csv
+│   │   ├── G-2021-10-19.csv
+│   │   ├── G-2021-10-20.csv
+│   │   ├── G-2021-10-21.csv
+│   │   ├── G-2021-10-22.csv
+│   │   ├── G-2021-10-23.csv
+│   │   ├── G-2021-10-24.csv
+│   │   ├── G-2021-10-25.csv
+│   │   ├── G-2021-10-26.csv
+│   │   ├── G-2021-10-27.csv
+│   │   ├── G-2021-10-28.csv
+│   │   ├── G-2021-10-29.csv
+│   │   ├── G-2021-10-30.csv
+│   │   ├── G-2021-10-31.csv
+│   │   ├── G-2021-11-01.csv
+│   │   ├── G-2021-11-02.csv
+│   │   ├── G-2021-11-03.csv
+│   │   ├── G-2021-11-04.csv
+│   │   ├── G-2021-11-05.csv
+│   │   ├── G-2021-11-06.csv
+│   │   ├── G-2021-11-07.csv
+│   │   ├── G-2021-11-08.csv
+│   │   ├── G-2021-11-09.csv
+│   │   ├── G-2021-11-10.csv
+│   │   ├── G-2021-11-11.csv
+│   │   ├── G-2021-11-12.csv
+│   │   ├── G-2021-11-13.csv
+│   │   ├── G-2021-11-14.csv
+│   │   ├── G-2021-11-15.csv
+│   │   ├── G-2021-11-16.csv
+│   │   ├── G-2021-11-17.csv
+│   │   ├── G-2021-11-18.csv
+│   │   ├── G-2021-11-19.csv
+│   │   ├── G-2021-11-20.csv
+│   │   ├── G-2021-11-21.csv
+│   │   ├── G-2021-11-22.csv
+│   │   ├── G-2021-11-23.csv
+│   │   ├── G-2021-11-24.csv
+│   │   ├── G-2021-11-25.csv
+│   │   ├── G-2021-11-26.csv
+│   │   ├── G-2021-11-27.csv
+│   │   ├── G-2021-11-28.csv
+│   │   ├── G-2021-11-29.csv
+│   │   ├── G-2021-11-30.csv
+│   │   ├── G-2021-12-01.csv
+│   │   ├── G-2021-12-02.csv
+│   │   ├── G-2021-12-03.csv
+│   │   ├── G-2021-12-04.csv
+│   │   ├── G-2021-12-05.csv
+│   │   ├── G-2021-12-06.csv
+│   │   ├── G-2021-12-07.csv
+│   │   ├── G-2021-12-08.csv
+│   │   ├── G-2021-12-09.csv
+│   │   ├── G-2021-12-10.csv
+│   │   ├── G-2021-12-11.csv
+│   │   ├── G-2021-12-12.csv
+│   │   ├── G-2021-12-13.csv
+│   │   ├── G-2021-12-14.csv
+│   │   ├── G-2021-12-15.csv
+│   │   ├── G-2021-12-16.csv
+│   │   ├── G-2021-12-17.csv
+│   │   ├── G-2021-12-18.csv
+│   │   ├── G-2021-12-19.csv
+│   │   ├── G-2021-12-20.csv
+│   │   ├── G-2021-12-21.csv
+│   │   ├── G-2021-12-22.csv
+│   │   ├── G-2021-12-23.csv
+│   │   ├── G-2021-12-24.csv
+│   │   ├── G-2021-12-25.csv
+│   │   ├── G-2021-12-26.csv
+│   │   ├── G-2021-12-27.csv
+│   │   ├── G-2021-12-28.csv
+│   │   ├── G-2021-12-29.csv
+│   │   ├── G-2021-12-30.csv
+│   │   ├── G-2021-12-31.csv
+│   │   ├── G-2022-01-01.csv
+│   │   ├── G-2022-01-02.csv
+│   │   ├── G-2022-01-03.csv
+│   │   ├── G-2022-01-04.csv
+│   │   ├── G-2022-01-05.csv
+│   │   ├── G-2022-01-06.csv
+│   │   ├── G-2022-01-07.csv
+│   │   ├── G-2022-01-08.csv
+│   │   ├── G-2022-01-09.csv
+│   │   ├── G-2022-01-10.csv
+│   │   ├── G-2022-01-11.csv
+│   │   ├── G-2022-01-12.csv
+│   │   ├── G-2022-01-13.csv
+│   │   ├── G-2022-01-14.csv
+│   │   ├── G-2022-01-15.csv
+│   │   ├── G-2022-01-16.csv
+│   │   ├── G-2022-01-17.csv
+│   │   ├── G-2022-01-18.csv
+│   │   ├── G-2022-01-19.csv
+│   │   ├── G-2022-01-20.csv
+│   │   ├── G-2022-01-21.csv
+│   │   ├── G-2022-01-22.csv
+│   │   ├── G-2022-01-23.csv
+│   │   ├── G-2022-01-24.csv
+│   │   ├── G-2022-01-25.csv
+│   │   ├── G-2022-01-26.csv
+│   │   ├── G-2022-01-27.csv
+│   │   ├── G-2022-01-28.csv
+│   │   ├── G-2022-01-29.csv
+│   │   ├── G-2022-01-30.csv
+│   │   ├── G-2022-01-31.csv
+│   │   ├── G-2022-02-01.csv
+│   │   ├── G-2022-02-02.csv
+│   │   ├── G-2022-02-03.csv
+│   │   ├── G-2022-02-04.csv
+│   │   ├── G-2022-02-05.csv
+│   │   ├── G-2022-02-06.csv
+│   │   ├── G-2022-02-07.csv
+│   │   ├── G-2022-02-08.csv
+│   │   ├── G-2022-02-09.csv
+│   │   ├── G-2022-02-10.csv
+│   │   ├── G-2022-02-11.csv
+│   │   ├── G-2022-02-12.csv
+│   │   ├── G-2022-02-13.csv
+│   │   ├── G-2022-02-14.csv
+│   │   ├── G-2022-02-15.csv
+│   │   ├── G-2022-02-16.csv
+│   │   ├── G-2022-02-17.csv
+│   │   ├── G-2022-02-18.csv
+│   │   ├── G-2022-02-19.csv
+│   │   ├── G-2022-02-20.csv
+│   │   ├── G-2022-02-21.csv
+│   │   ├── G-2022-02-22.csv
+│   │   ├── G-2022-02-23.csv
+│   │   ├── G-2022-02-24.csv
+│   │   ├── G-2022-02-25.csv
+│   │   ├── G-2022-02-26.csv
+│   │   ├── G-2022-02-27.csv
+│   │   ├── G-2022-02-28.csv
+│   │   ├── G-2022-03-01.csv
+│   │   ├── G-2022-03-02.csv
+│   │   ├── G-2022-03-03.csv
+│   │   ├── G-2022-03-04.csv
+│   │   ├── G-2022-03-05.csv
+│   │   ├── G-2022-03-06.csv
+│   │   ├── G-2022-03-07.csv
+│   │   ├── G-2022-03-08.csv
+│   │   ├── G-2022-03-09.csv
+│   │   ├── G-2022-03-10.csv
+│   │   ├── G-2022-03-11.csv
+│   │   ├── G-2022-03-12.csv
+│   │   ├── G-2022-03-13.csv
+│   │   ├── G-2022-03-14.csv
+│   │   ├── G-2022-03-15.csv
+│   │   ├── G-2022-03-16.csv
+│   │   ├── G-2022-03-17.csv
+│   │   ├── G-2022-03-18.csv
+│   │   ├── G-2022-03-19.csv
+│   │   ├── G-2022-03-20.csv
+│   │   ├── G-2022-03-21.csv
+│   │   ├── G-2022-03-22.csv
+│   │   ├── G-2022-03-23.csv
+│   │   ├── G-2022-03-24.csv
+│   │   ├── G-2022-03-25.csv
+│   │   ├── G-2022-03-26.csv
+│   │   ├── G-2022-03-27.csv
+│   │   ├── G-2022-03-28.csv
+│   │   ├── G-2022-03-29.csv
+│   │   ├── G-2022-03-30.csv
+│   │   ├── G-2022-03-31.csv
+│   │   ├── G-2022-04-01.csv
+│   │   ├── G-2022-04-02.csv
+│   │   ├── G-2022-04-03.csv
+│   │   ├── G-2022-04-04.csv
+│   │   ├── G-2022-04-05.csv
+│   │   ├── G-2022-04-06.csv
+│   │   ├── G-2022-04-07.csv
+│   │   ├── G-2022-04-08.csv
+│   │   ├── G-2022-04-09.csv
+│   │   ├── G-2022-04-10.csv
+│   │   ├── G-2022-04-11.csv
+│   │   ├── G-2022-04-12.csv
+│   │   ├── G-2022-04-13.csv
+│   │   ├── G-2022-04-14.csv
+│   │   ├── G-2022-04-15.csv
+│   │   ├── G-2022-04-16.csv
+│   │   ├── G-2022-04-17.csv
+│   │   ├── G-2022-04-18.csv
+│   │   ├── G-2022-04-19.csv
+│   │   ├── G-2022-04-20.csv
+│   │   ├── G-2022-04-21.csv
+│   │   ├── G-2022-04-22.csv
+│   │   ├── G-2022-04-23.csv
+│   │   ├── G-2022-04-24.csv
+│   │   ├── G-2022-04-25.csv
+│   │   ├── G-2022-04-26.csv
+│   │   ├── G-2022-04-27.csv
+│   │   ├── G-2022-04-28.csv
+│   │   ├── G-2022-04-29.csv
+│   │   ├── G-2022-04-30.csv
+│   │   ├── G-2022-05-01.csv
+│   │   ├── G-2022-05-02.csv
+│   │   ├── G-2022-05-03.csv
+│   │   ├── G-2022-05-04.csv
+│   │   ├── G-2022-05-05.csv
+│   │   ├── G-2022-05-06.csv
+│   │   ├── G-2022-05-07.csv
+│   │   ├── G-2022-05-08.csv
+│   │   ├── G-2022-05-09.csv
+│   │   ├── G-2022-05-10.csv
+│   │   ├── G-2022-05-11.csv
+│   │   ├── G-2022-05-12.csv
+│   │   ├── G-2022-05-13.csv
+│   │   ├── G-2022-05-14.csv
+│   │   ├── G-2022-05-15.csv
+│   │   ├── G-2022-05-16.csv
+│   │   ├── G-2022-05-17.csv
+│   │   ├── G-2022-05-18.csv
+│   │   ├── G-2022-05-19.csv
+│   │   ├── G-2022-05-20.csv
+│   │   ├── G-2022-05-21.csv
+│   │   ├── G-2022-05-22.csv
+│   │   ├── G-2022-05-23.csv
+│   │   ├── G-2022-05-24.csv
+│   │   ├── G-2022-05-25.csv
+│   │   ├── G-2022-05-26.csv
+│   │   ├── G-2022-05-27.csv
+│   │   ├── G-2022-05-28.csv
+│   │   ├── G-2022-05-29.csv
+│   │   ├── G-2022-05-30.csv
+│   │   ├── G-2022-05-31.csv
+│   │   ├── G-2022-06-01.csv
+│   │   ├── G-2022-06-02.csv
+│   │   ├── G-2022-06-03.csv
+│   │   ├── G-2022-06-04.csv
+│   │   ├── G-2022-06-05.csv
+│   │   ├── G-2022-06-06.csv
+│   │   ├── G-2022-06-07.csv
+│   │   ├── G-2022-06-08.csv
+│   │   ├── G-2022-06-09.csv
+│   │   ├── G-2022-06-10.csv
+│   │   ├── G-2022-06-11.csv
+│   │   ├── G-2022-06-12.csv
+│   │   ├── G-2022-06-13.csv
+│   │   ├── G-2022-06-14.csv
+│   │   ├── G-2022-06-15.csv
+│   │   ├── G-2022-06-16.csv
+│   │   ├── G-2022-06-17.csv
+│   │   ├── G-2022-06-18.csv
+│   │   ├── G-2022-06-19.csv
+│   │   ├── G-2022-06-20.csv
+│   │   ├── G-2022-06-21.csv
+│   │   ├── G-2022-06-22.csv
+│   │   ├── G-2022-06-23.csv
+│   │   ├── G-2022-06-24.csv
+│   │   ├── G-2022-06-25.csv
+│   │   ├── G-2022-06-26.csv
+│   │   ├── G-2022-06-27.csv
+│   │   ├── G-2022-06-28.csv
+│   │   ├── G-2022-06-29.csv
+│   │   ├── G-2022-06-30.csv
+│   │   ├── G-2022-07-01.csv
+│   │   ├── G-2022-07-03.csv
+│   │   ├── G-2022-07-10.csv
+│   │   ├── G-2022-07-17.csv
+│   │   ├── G-2022-07-24.csv
+│   │   ├── G-2022-07-31.csv
+│   │   ├── G-2022-08-07.csv
+│   │   ├── G-2022-08-14.csv
+│   │   ├── G-2022-08-21.csv
+│   │   ├── G-2022-08-28.csv
+│   │   ├── G-2022-09-04.csv
+│   │   ├── G-2022-09-11.csv
+│   │   ├── G-2022-09-18.csv
+│   │   ├── index.csv
+│   │   ├── new2.py
+│   │   ├── output.log
+│   │   ├── output_vectors.txt
+│   │   ├── test.py
+│   │   ├── tweet_network-2021-03-15.edgelist
+│   │   ├── tweet_network-2021-03-22.edgelist
+│   │   ├── tweet_network-2021-03-31.edgelist
+│   │   ├── tweet_network-2021-04-13.edgelist
+│   │   ├── tweet_network-2021-04-20.edgelist
+│   │   ├── tweet_network-2021-04-25.edgelist
+│   │   ├── tweet_network-2021-04-29.edgelist
+│   │   ├── tweet_network-2021-05-02.edgelist
+│   │   ├── tweet_network-2021-05-07.edgelist
+│   │   ├── tweet_network-2021-05-15.edgelist
+│   │   ├── tweet_network-2021-05-20.edgelist
+│   │   ├── tweet_network-2021-05-21.edgelist
+│   │   ├── tweet_network-2021-05-24.edgelist
+│   │   ├── tweet_network-2021-05-27.edgelist
+│   │   ├── tweet_network-2021-06-07.edgelist
+│   │   ├── tweet_network-2021-06-09.edgelist
+│   │   ├── tweet_network-2021-06-11.edgelist
+│   │   ├── tweet_network-2021-06-13.edgelist
+│   │   ├── tweet_network-2021-06-14.edgelist
+│   │   ├── tweet_network-2021-06-15.edgelist
+│   │   ├── tweet_network-2021-06-16.edgelist
+│   │   ├── tweet_network-2021-06-17.edgelist
+│   │   ├── tweet_network-2021-06-19.edgelist
+│   │   ├── tweet_network-2021-06-22.edgelist
+│   │   ├── tweet_network-2021-06-23.edgelist
+│   │   ├── tweet_network-2021-06-24.edgelist
+│   │   ├── tweet_network-2021-06-25.edgelist
+│   │   ├── tweet_network-2021-06-28.edgelist
+│   │   ├── tweet_network-2021-06-29.edgelist
+│   │   ├── tweet_network-2021-07-02.edgelist
+│   │   ├── tweet_network-2021-07-05.edgelist
+│   │   ├── tweet_network-2021-07-06.edgelist
+│   │   ├── tweet_network-2021-07-07.edgelist
+│   │   ├── tweet_network-2021-07-08.edgelist
+│   │   ├── tweet_network-2021-07-10.edgelist
+│   │   ├── tweet_network-2021-07-12.edgelist
+│   │   ├── tweet_network-2021-07-14.edgelist
+│   │   ├── tweet_network-2021-07-16.edgelist
+│   │   ├── tweet_network-2021-07-17.edgelist
+│   │   ├── tweet_network-2021-07-18.edgelist
+│   │   ├── tweet_network-2021-07-19.edgelist
+│   │   ├── tweet_network-2021-07-21.edgelist
+│   │   ├── tweet_network-2021-07-22.edgelist
+│   │   ├── tweet_network-2021-07-23.edgelist
+│   │   ├── tweet_network-2021-07-24.edgelist
+│   │   ├── tweet_network-2021-07-25.edgelist
+│   │   ├── tweet_network-2021-07-26.edgelist
+│   │   ├── tweet_network-2021-07-27.edgelist
+│   │   ├── tweet_network-2021-07-28.edgelist
+│   │   ├── tweet_network-2021-07-29.edgelist
+│   │   ├── tweet_network-2021-07-30.edgelist
+│   │   ├── tweet_network-2021-07-31.edgelist
+│   │   ├── tweet_network-2021-08-01.edgelist
+│   │   ├── tweet_network-2021-08-02.edgelist
+│   │   ├── tweet_network-2021-08-03.edgelist
+│   │   ├── tweet_network-2021-08-04.edgelist
+│   │   ├── tweet_network-2021-08-05.edgelist
+│   │   ├── tweet_network-2021-08-06.edgelist
+│   │   ├── tweet_network-2021-08-07.edgelist
+│   │   ├── tweet_network-2021-08-08.edgelist
+│   │   ├── tweet_network-2021-08-09.edgelist
+│   │   ├── tweet_network-2021-08-10.edgelist
+│   │   ├── tweet_network-2021-08-11.edgelist
+│   │   ├── tweet_network-2021-08-12.edgelist
+│   │   ├── tweet_network-2021-08-13.edgelist
+│   │   ├── tweet_network-2021-08-14.edgelist
+│   │   ├── tweet_network-2021-08-15.edgelist
+│   │   ├── tweet_network-2021-08-16.edgelist
+│   │   ├── tweet_network-2021-08-17.edgelist
+│   │   ├── tweet_network-2021-08-18.edgelist
+│   │   ├── tweet_network-2021-08-19.edgelist
+│   │   ├── tweet_network-2021-08-20.edgelist
+│   │   ├── tweet_network-2021-08-21.edgelist
+│   │   ├── tweet_network-2021-08-22.edgelist
+│   │   ├── tweet_network-2021-08-23.edgelist
+│   │   ├── tweet_network-2021-08-24.edgelist
+│   │   ├── tweet_network-2021-08-25.edgelist
+│   │   ├── tweet_network-2021-08-26.edgelist
+│   │   ├── tweet_network-2021-08-27.edgelist
+│   │   ├── tweet_network-2021-08-28.edgelist
+│   │   ├── tweet_network-2021-08-29.edgelist
+│   │   ├── tweet_network-2021-08-30.edgelist
+│   │   ├── tweet_network-2021-08-31.edgelist
+│   │   ├── tweet_network-2021-09-01.edgelist
+│   │   ├── tweet_network-2021-09-02.edgelist
+│   │   ├── tweet_network-2021-09-03.edgelist
+│   │   ├── tweet_network-2021-09-04.edgelist
+│   │   ├── tweet_network-2021-09-05.edgelist
+│   │   ├── tweet_network-2021-09-06.edgelist
+│   │   ├── tweet_network-2021-09-07.edgelist
+│   │   ├── tweet_network-2021-09-08.edgelist
+│   │   ├── tweet_network-2021-09-09.edgelist
+│   │   ├── tweet_network-2021-09-10.edgelist
+│   │   ├── tweet_network-2021-09-11.edgelist
+│   │   ├── tweet_network-2021-09-12.edgelist
+│   │   ├── tweet_network-2021-09-13.edgelist
+│   │   ├── tweet_network-2021-09-14.edgelist
+│   │   ├── tweet_network-2021-09-15.edgelist
+│   │   ├── tweet_network-2021-09-16.edgelist
+│   │   ├── tweet_network-2021-09-17.edgelist
+│   │   ├── tweet_network-2021-09-18.edgelist
+│   │   ├── tweet_network-2021-09-19.edgelist
+│   │   ├── tweet_network-2021-09-20.edgelist
+│   │   ├── tweet_network-2021-09-21.edgelist
+│   │   ├── tweet_network-2021-09-22.edgelist
+│   │   ├── tweet_network-2021-09-23.edgelist
+│   │   ├── tweet_network-2021-09-24.edgelist
+│   │   ├── tweet_network-2021-09-25.edgelist
+│   │   ├── tweet_network-2021-09-26.edgelist
+│   │   ├── tweet_network-2021-09-27.edgelist
+│   │   ├── tweet_network-2021-09-28.edgelist
+│   │   ├── tweet_network-2021-09-29.edgelist
+│   │   ├── tweet_network-2021-09-30.edgelist
+│   │   ├── tweet_network-2021-10-01.edgelist
+│   │   ├── tweet_network-2021-10-02.edgelist
+│   │   ├── tweet_network-2021-10-03.edgelist
+│   │   ├── tweet_network-2021-10-04.edgelist
+│   │   ├── tweet_network-2021-10-05.edgelist
+│   │   ├── tweet_network-2021-10-06.edgelist
+│   │   ├── tweet_network-2021-10-07.edgelist
+│   │   ├── tweet_network-2021-10-08.edgelist
+│   │   ├── tweet_network-2021-10-09.edgelist
+│   │   ├── tweet_network-2021-10-10.edgelist
+│   │   ├── tweet_network-2021-10-11.edgelist
+│   │   ├── tweet_network-2021-10-12.edgelist
+│   │   ├── tweet_network-2021-10-13.edgelist
+│   │   ├── tweet_network-2021-10-14.edgelist
+│   │   ├── tweet_network-2021-10-15.edgelist
+│   │   ├── tweet_network-2021-10-16.edgelist
+│   │   ├── tweet_network-2021-10-17.edgelist
+│   │   ├── tweet_network-2021-10-18.edgelist
+│   │   ├── tweet_network-2021-10-19.edgelist
+│   │   ├── tweet_network-2021-10-20.edgelist
+│   │   ├── tweet_network-2021-10-21.edgelist
+│   │   ├── tweet_network-2021-10-22.edgelist
+│   │   ├── tweet_network-2021-10-23.edgelist
+│   │   ├── tweet_network-2021-10-24.edgelist
+│   │   ├── tweet_network-2021-10-25.edgelist
+│   │   ├── tweet_network-2021-10-26.edgelist
+│   │   ├── tweet_network-2021-10-27.edgelist
+│   │   ├── tweet_network-2021-10-28.edgelist
+│   │   ├── tweet_network-2021-10-29.edgelist
+│   │   ├── tweet_network-2021-10-30.edgelist
+│   │   ├── tweet_network-2021-10-31.edgelist
+│   │   ├── tweet_network-2021-11-01.edgelist
+│   │   ├── tweet_network-2021-11-02.edgelist
+│   │   ├── tweet_network-2021-11-03.edgelist
+│   │   ├── tweet_network-2021-11-04.edgelist
+│   │   ├── tweet_network-2021-11-05.edgelist
+│   │   ├── tweet_network-2021-11-06.edgelist
+│   │   ├── tweet_network-2021-11-07.edgelist
+│   │   ├── tweet_network-2021-11-08.edgelist
+│   │   ├── tweet_network-2021-11-09.edgelist
+│   │   ├── tweet_network-2021-11-10.edgelist
+│   │   ├── tweet_network-2021-11-11.edgelist
+│   │   ├── tweet_network-2021-11-12.edgelist
+│   │   ├── tweet_network-2021-11-13.edgelist
+│   │   ├── tweet_network-2021-11-14.edgelist
+│   │   ├── tweet_network-2021-11-15.edgelist
+│   │   ├── tweet_network-2021-11-16.edgelist
+│   │   ├── tweet_network-2021-11-17.edgelist
+│   │   ├── tweet_network-2021-11-18.edgelist
+│   │   ├── tweet_network-2021-11-19.edgelist
+│   │   ├── tweet_network-2021-11-20.edgelist
+│   │   ├── tweet_network-2021-11-21.edgelist
+│   │   ├── tweet_network-2021-11-22.edgelist
+│   │   ├── tweet_network-2021-11-23.edgelist
+│   │   ├── tweet_network-2021-11-24.edgelist
+│   │   ├── tweet_network-2021-11-25.edgelist
+│   │   ├── tweet_network-2021-11-26.edgelist
+│   │   ├── tweet_network-2021-11-27.edgelist
+│   │   ├── tweet_network-2021-11-28.edgelist
+│   │   ├── tweet_network-2021-11-29.edgelist
+│   │   ├── tweet_network-2021-11-30.edgelist
+│   │   ├── tweet_network-2021-12-01.edgelist
+│   │   ├── tweet_network-2021-12-02.edgelist
+│   │   ├── tweet_network-2021-12-03.edgelist
+│   │   ├── tweet_network-2021-12-04.edgelist
+│   │   ├── tweet_network-2021-12-05.edgelist
+│   │   ├── tweet_network-2021-12-06.edgelist
+│   │   ├── tweet_network-2021-12-07.edgelist
+│   │   ├── tweet_network-2021-12-08.edgelist
+│   │   ├── tweet_network-2021-12-09.edgelist
+│   │   ├── tweet_network-2021-12-10.edgelist
+│   │   ├── tweet_network-2021-12-11.edgelist
+│   │   ├── tweet_network-2021-12-12.edgelist
+│   │   ├── tweet_network-2021-12-13.edgelist
+│   │   ├── tweet_network-2021-12-14.edgelist
+│   │   ├── tweet_network-2021-12-15.edgelist
+│   │   ├── tweet_network-2021-12-16.edgelist
+│   │   ├── tweet_network-2021-12-17.edgelist
+│   │   ├── tweet_network-2021-12-18.edgelist
+│   │   ├── tweet_network-2021-12-19.edgelist
+│   │   ├── tweet_network-2021-12-20.edgelist
+│   │   ├── tweet_network-2021-12-21.edgelist
+│   │   ├── tweet_network-2021-12-22.edgelist
+│   │   ├── tweet_network-2021-12-23.edgelist
+│   │   ├── tweet_network-2021-12-24.edgelist
+│   │   ├── tweet_network-2021-12-25.edgelist
+│   │   ├── tweet_network-2021-12-26.edgelist
+│   │   ├── tweet_network-2021-12-27.edgelist
+│   │   ├── tweet_network-2021-12-28.edgelist
+│   │   ├── tweet_network-2021-12-29.edgelist
+│   │   ├── tweet_network-2021-12-30.edgelist
+│   │   ├── tweet_network-2021-12-31.edgelist
+│   │   ├── tweet_network-2022-01-01.edgelist
+│   │   ├── tweet_network-2022-01-02.edgelist
+│   │   ├── tweet_network-2022-01-03.edgelist
+│   │   ├── tweet_network-2022-01-04.edgelist
+│   │   ├── tweet_network-2022-01-05.edgelist
+│   │   ├── tweet_network-2022-01-06.edgelist
+│   │   ├── tweet_network-2022-01-07.edgelist
+│   │   ├── tweet_network-2022-01-08.edgelist
+│   │   ├── tweet_network-2022-01-09.edgelist
+│   │   ├── tweet_network-2022-01-10.edgelist
+│   │   ├── tweet_network-2022-01-11.edgelist
+│   │   ├── tweet_network-2022-01-12.edgelist
+│   │   ├── tweet_network-2022-01-13.edgelist
+│   │   ├── tweet_network-2022-01-14.edgelist
+│   │   ├── tweet_network-2022-01-15.edgelist
+│   │   ├── tweet_network-2022-01-16.edgelist
+│   │   ├── tweet_network-2022-01-17.edgelist
+│   │   ├── tweet_network-2022-01-18.edgelist
+│   │   ├── tweet_network-2022-01-19.edgelist
+│   │   ├── tweet_network-2022-01-20.edgelist
+│   │   ├── tweet_network-2022-01-21.edgelist
+│   │   ├── tweet_network-2022-01-22.edgelist
+│   │   ├── tweet_network-2022-01-23.edgelist
+│   │   ├── tweet_network-2022-01-24.edgelist
+│   │   ├── tweet_network-2022-01-25.edgelist
+│   │   ├── tweet_network-2022-01-26.edgelist
+│   │   ├── tweet_network-2022-01-27.edgelist
+│   │   ├── tweet_network-2022-01-28.edgelist
+│   │   ├── tweet_network-2022-01-29.edgelist
+│   │   ├── tweet_network-2022-01-30.edgelist
+│   │   ├── tweet_network-2022-01-31.edgelist
+│   │   ├── tweet_network-2022-02-01.edgelist
+│   │   ├── tweet_network-2022-02-02.edgelist
+│   │   ├── tweet_network-2022-02-03.edgelist
+│   │   ├── tweet_network-2022-02-04.edgelist
+│   │   ├── tweet_network-2022-02-05.edgelist
+│   │   ├── tweet_network-2022-02-06.edgelist
+│   │   ├── tweet_network-2022-02-07.edgelist
+│   │   ├── tweet_network-2022-02-08.edgelist
+│   │   ├── tweet_network-2022-02-09.edgelist
+│   │   ├── tweet_network-2022-02-10.edgelist
+│   │   ├── tweet_network-2022-02-11.edgelist
+│   │   ├── tweet_network-2022-02-12.edgelist
+│   │   ├── tweet_network-2022-02-13.edgelist
+│   │   ├── tweet_network-2022-02-14.edgelist
+│   │   ├── tweet_network-2022-02-15.edgelist
+│   │   ├── tweet_network-2022-02-16.edgelist
+│   │   ├── tweet_network-2022-02-17.edgelist
+│   │   ├── tweet_network-2022-02-18.edgelist
+│   │   ├── tweet_network-2022-02-19.edgelist
+│   │   ├── tweet_network-2022-02-20.edgelist
+│   │   ├── tweet_network-2022-02-21.edgelist
+│   │   ├── tweet_network-2022-02-22.edgelist
+│   │   ├── tweet_network-2022-02-23.edgelist
+│   │   ├── tweet_network-2022-02-24.edgelist
+│   │   ├── tweet_network-2022-02-25.edgelist
+│   │   ├── tweet_network-2022-02-26.edgelist
+│   │   ├── tweet_network-2022-02-27.edgelist
+│   │   ├── tweet_network-2022-02-28.edgelist
+│   │   ├── tweet_network-2022-03-01.edgelist
+│   │   ├── tweet_network-2022-03-02.edgelist
+│   │   ├── tweet_network-2022-03-03.edgelist
+│   │   ├── tweet_network-2022-03-04.edgelist
+│   │   ├── tweet_network-2022-03-05.edgelist
+│   │   ├── tweet_network-2022-03-06.edgelist
+│   │   ├── tweet_network-2022-03-07.edgelist
+│   │   ├── tweet_network-2022-03-08.edgelist
+│   │   ├── tweet_network-2022-03-09.edgelist
+│   │   ├── tweet_network-2022-03-10.edgelist
+│   │   ├── tweet_network-2022-03-11.edgelist
+│   │   ├── tweet_network-2022-03-12.edgelist
+│   │   ├── tweet_network-2022-03-13.edgelist
+│   │   ├── tweet_network-2022-03-14.edgelist
+│   │   ├── tweet_network-2022-03-15.edgelist
+│   │   ├── tweet_network-2022-03-16.edgelist
+│   │   ├── tweet_network-2022-03-17.edgelist
+│   │   ├── tweet_network-2022-03-18.edgelist
+│   │   ├── tweet_network-2022-03-19.edgelist
+│   │   ├── tweet_network-2022-03-20.edgelist
+│   │   ├── tweet_network-2022-03-21.edgelist
+│   │   ├── tweet_network-2022-03-22.edgelist
+│   │   ├── tweet_network-2022-03-23.edgelist
+│   │   ├── tweet_network-2022-03-24.edgelist
+│   │   ├── tweet_network-2022-03-25.edgelist
+│   │   ├── tweet_network-2022-03-26.edgelist
+│   │   ├── tweet_network-2022-03-27.edgelist
+│   │   ├── tweet_network-2022-03-28.edgelist
+│   │   ├── tweet_network-2022-03-29.edgelist
+│   │   ├── tweet_network-2022-03-30.edgelist
+│   │   ├── tweet_network-2022-03-31.edgelist
+│   │   ├── tweet_network-2022-04-01.edgelist
+│   │   ├── tweet_network-2022-04-02.edgelist
+│   │   ├── tweet_network-2022-04-03.edgelist
+│   │   ├── tweet_network-2022-04-04.edgelist
+│   │   ├── tweet_network-2022-04-05.edgelist
+│   │   ├── tweet_network-2022-04-06.edgelist
+│   │   ├── tweet_network-2022-04-07.edgelist
+│   │   ├── tweet_network-2022-04-08.edgelist
+│   │   ├── tweet_network-2022-04-09.edgelist
+│   │   ├── tweet_network-2022-04-10.edgelist
+│   │   ├── tweet_network-2022-04-11.edgelist
+│   │   ├── tweet_network-2022-04-12.edgelist
+│   │   ├── tweet_network-2022-04-13.edgelist
+│   │   ├── tweet_network-2022-04-14.edgelist
+│   │   ├── tweet_network-2022-04-15.edgelist
+│   │   ├── tweet_network-2022-04-16.edgelist
+│   │   ├── tweet_network-2022-04-17.edgelist
+│   │   ├── tweet_network-2022-04-18.edgelist
+│   │   ├── tweet_network-2022-04-19.edgelist
+│   │   ├── tweet_network-2022-04-20.edgelist
+│   │   ├── tweet_network-2022-04-21.edgelist
+│   │   ├── tweet_network-2022-04-22.edgelist
+│   │   ├── tweet_network-2022-04-23.edgelist
+│   │   ├── tweet_network-2022-04-24.edgelist
+│   │   ├── tweet_network-2022-04-25.edgelist
+│   │   ├── tweet_network-2022-04-26.edgelist
+│   │   ├── tweet_network-2022-04-27.edgelist
+│   │   ├── tweet_network-2022-04-28.edgelist
+│   │   ├── tweet_network-2022-04-29.edgelist
+│   │   ├── tweet_network-2022-04-30.edgelist
+│   │   ├── tweet_network-2022-05-01.edgelist
+│   │   ├── tweet_network-2022-05-02.edgelist
+│   │   ├── tweet_network-2022-05-03.edgelist
+│   │   ├── tweet_network-2022-05-04.edgelist
+│   │   ├── tweet_network-2022-05-05.edgelist
+│   │   ├── tweet_network-2022-05-06.edgelist
+│   │   ├── tweet_network-2022-05-07.edgelist
+│   │   ├── tweet_network-2022-05-08.edgelist
+│   │   ├── tweet_network-2022-05-09.edgelist
+│   │   ├── tweet_network-2022-05-10.edgelist
+│   │   ├── tweet_network-2022-05-11.edgelist
+│   │   ├── tweet_network-2022-05-12.edgelist
+│   │   ├── tweet_network-2022-05-13.edgelist
+│   │   ├── tweet_network-2022-05-14.edgelist
+│   │   ├── tweet_network-2022-05-15.edgelist
+│   │   ├── tweet_network-2022-05-16.edgelist
+│   │   ├── tweet_network-2022-05-17.edgelist
+│   │   ├── tweet_network-2022-05-18.edgelist
+│   │   ├── tweet_network-2022-05-19.edgelist
+│   │   ├── tweet_network-2022-05-20.edgelist
+│   │   ├── tweet_network-2022-05-21.edgelist
+│   │   ├── tweet_network-2022-05-22.edgelist
+│   │   ├── tweet_network-2022-05-23.edgelist
+│   │   ├── tweet_network-2022-05-24.edgelist
+│   │   ├── tweet_network-2022-05-25.edgelist
+│   │   ├── tweet_network-2022-05-26.edgelist
+│   │   ├── tweet_network-2022-05-27.edgelist
+│   │   ├── tweet_network-2022-05-28.edgelist
+│   │   ├── tweet_network-2022-05-29.edgelist
+│   │   ├── tweet_network-2022-05-30.edgelist
+│   │   ├── tweet_network-2022-05-31.edgelist
+│   │   ├── tweet_network-2022-06-01.edgelist
+│   │   ├── tweet_network-2022-06-02.edgelist
+│   │   ├── tweet_network-2022-06-03.edgelist
+│   │   ├── tweet_network-2022-06-04.edgelist
+│   │   ├── tweet_network-2022-06-05.edgelist
+│   │   ├── tweet_network-2022-06-06.edgelist
+│   │   ├── tweet_network-2022-06-07.edgelist
+│   │   ├── tweet_network-2022-06-08.edgelist
+│   │   ├── tweet_network-2022-06-09.edgelist
+│   │   ├── tweet_network-2022-06-10.edgelist
+│   │   ├── tweet_network-2022-06-11.edgelist
+│   │   ├── tweet_network-2022-06-12.edgelist
+│   │   ├── tweet_network-2022-06-13.edgelist
+│   │   ├── tweet_network-2022-06-14.edgelist
+│   │   ├── tweet_network-2022-06-15.edgelist
+│   │   ├── tweet_network-2022-06-16.edgelist
+│   │   ├── tweet_network-2022-06-17.edgelist
+│   │   ├── tweet_network-2022-06-18.edgelist
+│   │   ├── tweet_network-2022-06-19.edgelist
+│   │   ├── tweet_network-2022-06-20.edgelist
+│   │   ├── tweet_network-2022-06-21.edgelist
+│   │   ├── tweet_network-2022-06-22.edgelist
+│   │   ├── tweet_network-2022-06-23.edgelist
+│   │   ├── tweet_network-2022-06-24.edgelist
+│   │   ├── tweet_network-2022-06-25.edgelist
+│   │   ├── tweet_network-2022-06-26.edgelist
+│   │   ├── tweet_network-2022-06-27.edgelist
+│   │   ├── tweet_network-2022-06-28.edgelist
+│   │   ├── tweet_network-2022-06-29.edgelist
+│   │   ├── tweet_network-2022-06-30.edgelist
+│   │   ├── tweet_network-2022-07-01.edgelist
+│   │   ├── tweet_network-2022-07-03.edgelist
+│   │   ├── tweet_network-2022-07-10.edgelist
+│   │   ├── tweet_network-2022-07-17.edgelist
+│   │   ├── tweet_network-2022-07-24.edgelist
+│   │   ├── tweet_network-2022-07-31.edgelist
+│   │   ├── tweet_network-2022-08-07.edgelist
+│   │   ├── tweet_network-2022-08-14.edgelist
+│   │   ├── tweet_network-2022-08-21.edgelist
+│   │   ├── tweet_network-2022-08-28.edgelist
+│   │   ├── tweet_network-2022-09-04.edgelist
+│   │   ├── tweet_network-2022-09-11.edgelist
+│   │   ├── tweet_network-2022-09-18.edgelist
+│   │   └── tweet_to_user_mapping.json
+│   ├── old
+│   │   ├── degree
+│   │   │   ├── degree_2021-01-03.png
+│   │   │   ├── degree_2021-01-10.png
+│   │   │   ├── degree_2021-01-17.png
+│   │   │   ├── degree_2021-01-24.png
+│   │   │   ├── degree_2021-01-31.png
+│   │   │   ├── degree_2021-02-07.png
+│   │   │   ├── degree_2021-02-14.png
+│   │   │   ├── degree_2021-02-21.png
+│   │   │   ├── degree_2021-02-28.png
+│   │   │   ├── degree_2021-03-07.png
+│   │   │   ├── degree_2021-03-14.png
+│   │   │   ├── degree_2021-03-15.png
+│   │   │   ├── degree_2021-03-21.png
+│   │   │   ├── degree_2021-03-22.png
+│   │   │   ├── degree_2021-03-28.png
+│   │   │   ├── degree_2021-03-31.png
+│   │   │   ├── degree_2021-04-04.png
+│   │   │   ├── degree_2021-04-11.png
+│   │   │   ├── degree_2021-04-13.png
+│   │   │   ├── degree_2021-04-18.png
+│   │   │   ├── degree_2021-04-20.png
+│   │   │   ├── degree_2021-04-25.png
+│   │   │   ├── degree_2021-04-29.png
+│   │   │   ├── degree_2021-05-02.png
+│   │   │   ├── degree_2021-05-07.png
+│   │   │   ├── degree_2021-05-09.png
+│   │   │   ├── degree_2021-05-15.png
+│   │   │   ├── degree_2021-05-16.png
+│   │   │   ├── degree_2021-05-20.png
+│   │   │   ├── degree_2021-05-21.png
+│   │   │   ├── degree_2021-05-23.png
+│   │   │   ├── degree_2021-05-24.png
+│   │   │   ├── degree_2021-05-27.png
+│   │   │   ├── degree_2021-05-30.png
+│   │   │   ├── degree_2021-06-06.png
+│   │   │   ├── degree_2021-06-07.png
+│   │   │   ├── degree_2021-06-09.png
+│   │   │   ├── degree_2021-06-11.png
+│   │   │   ├── degree_2021-06-13.png
+│   │   │   ├── degree_2021-06-14.png
+│   │   │   ├── degree_2021-06-15.png
+│   │   │   ├── degree_2021-06-16.png
+│   │   │   ├── degree_2021-06-17.png
+│   │   │   ├── degree_2021-06-19.png
+│   │   │   ├── degree_2021-06-20.png
+│   │   │   ├── degree_2021-06-22.png
+│   │   │   ├── degree_2021-06-23.png
+│   │   │   ├── degree_2021-06-24.png
+│   │   │   ├── degree_2021-06-25.png
+│   │   │   ├── degree_2021-06-27.png
+│   │   │   ├── degree_2021-06-28.png
+│   │   │   ├── degree_2021-06-29.png
+│   │   │   ├── degree_2021-07-02.png
+│   │   │   ├── degree_2021-07-04.png
+│   │   │   ├── degree_2021-07-05.png
+│   │   │   ├── degree_2021-07-06.png
+│   │   │   ├── degree_2021-07-07.png
+│   │   │   ├── degree_2021-07-08.png
+│   │   │   ├── degree_2021-07-10.png
+│   │   │   ├── degree_2021-07-11.png
+│   │   │   ├── degree_2021-07-12.png
+│   │   │   ├── degree_2021-07-14.png
+│   │   │   ├── degree_2021-07-16.png
+│   │   │   ├── degree_2021-07-17.png
+│   │   │   ├── degree_2021-07-18.png
+│   │   │   ├── degree_2021-07-19.png
+│   │   │   ├── degree_2021-07-21.png
+│   │   │   ├── degree_2021-07-22.png
+│   │   │   ├── degree_2021-07-23.png
+│   │   │   ├── degree_2021-07-24.png
+│   │   │   ├── degree_2021-07-25.png
+│   │   │   ├── degree_2021-07-26.png
+│   │   │   ├── degree_2021-07-27.png
+│   │   │   ├── degree_2021-07-28.png
+│   │   │   ├── degree_2021-07-29.png
+│   │   │   ├── degree_2021-07-30.png
+│   │   │   ├── degree_2021-07-31.png
+│   │   │   ├── degree_2021-08-01.png
+│   │   │   ├── degree_2021-08-02.png
+│   │   │   ├── degree_2021-08-03.png
+│   │   │   ├── degree_2021-08-04.png
+│   │   │   ├── degree_2021-08-05.png
+│   │   │   ├── degree_2021-08-06.png
+│   │   │   ├── degree_2021-08-07.png
+│   │   │   ├── degree_2021-08-08.png
+│   │   │   ├── degree_2021-08-09.png
+│   │   │   ├── degree_2021-08-10.png
+│   │   │   ├── degree_2021-08-11.png
+│   │   │   ├── degree_2021-08-12.png
+│   │   │   ├── degree_2021-08-13.png
+│   │   │   ├── degree_2021-08-14.png
+│   │   │   ├── degree_2021-08-15.png
+│   │   │   ├── degree_2021-08-16.png
+│   │   │   ├── degree_2021-08-17.png
+│   │   │   ├── degree_2021-08-18.png
+│   │   │   ├── degree_2021-08-19.png
+│   │   │   ├── degree_2021-08-20.png
+│   │   │   ├── degree_2021-08-21.png
+│   │   │   ├── degree_2021-08-22.png
+│   │   │   ├── degree_2021-08-23.png
+│   │   │   ├── degree_2021-08-24.png
+│   │   │   ├── degree_2021-08-25.png
+│   │   │   ├── degree_2021-08-26.png
+│   │   │   ├── degree_2021-08-27.png
+│   │   │   ├── degree_2021-08-28.png
+│   │   │   ├── degree_2021-08-29.png
+│   │   │   ├── degree_2021-08-30.png
+│   │   │   ├── degree_2021-08-31.png
+│   │   │   ├── degree_2021-09-01.png
+│   │   │   ├── degree_2021-09-02.png
+│   │   │   ├── degree_2021-09-03.png
+│   │   │   ├── degree_2021-09-04.png
+│   │   │   ├── degree_2021-09-05.png
+│   │   │   ├── degree_2021-09-06.png
+│   │   │   ├── degree_2021-09-07.png
+│   │   │   ├── degree_2021-09-08.png
+│   │   │   ├── degree_2021-09-09.png
+│   │   │   ├── degree_2021-09-10.png
+│   │   │   ├── degree_2021-09-11.png
+│   │   │   ├── degree_2021-09-12.png
+│   │   │   ├── degree_2021-09-13.png
+│   │   │   ├── degree_2021-09-14.png
+│   │   │   ├── degree_2021-09-15.png
+│   │   │   ├── degree_2021-09-16.png
+│   │   │   ├── degree_2021-09-17.png
+│   │   │   ├── degree_2021-09-18.png
+│   │   │   ├── degree_2021-09-19.png
+│   │   │   ├── degree_2021-09-20.png
+│   │   │   ├── degree_2021-09-21.png
+│   │   │   ├── degree_2021-09-22.png
+│   │   │   ├── degree_2021-09-23.png
+│   │   │   ├── degree_2021-09-24.png
+│   │   │   ├── degree_2021-09-25.png
+│   │   │   ├── degree_2021-09-26.png
+│   │   │   ├── degree_2021-09-27.png
+│   │   │   ├── degree_2021-09-28.png
+│   │   │   ├── degree_2021-09-29.png
+│   │   │   ├── degree_2021-09-30.png
+│   │   │   ├── degree_2021-10-01.png
+│   │   │   ├── degree_2021-10-02.png
+│   │   │   ├── degree_2021-10-03.png
+│   │   │   ├── degree_2021-10-04.png
+│   │   │   ├── degree_2021-10-05.png
+│   │   │   ├── degree_2021-10-06.png
+│   │   │   ├── degree_2021-10-07.png
+│   │   │   ├── degree_2021-10-08.png
+│   │   │   ├── degree_2021-10-09.png
+│   │   │   ├── degree_2021-10-10.png
+│   │   │   ├── degree_2021-10-11.png
+│   │   │   ├── degree_2021-10-12.png
+│   │   │   ├── degree_2021-10-13.png
+│   │   │   ├── degree_2021-10-14.png
+│   │   │   ├── degree_2021-10-15.png
+│   │   │   ├── degree_2021-10-16.png
+│   │   │   ├── degree_2021-10-17.png
+│   │   │   ├── degree_2021-10-18.png
+│   │   │   ├── degree_2021-10-19.png
+│   │   │   ├── degree_2021-10-20.png
+│   │   │   ├── degree_2021-10-21.png
+│   │   │   ├── degree_2021-10-22.png
+│   │   │   ├── degree_2021-10-23.png
+│   │   │   ├── degree_2021-10-24.png
+│   │   │   ├── degree_2021-10-25.png
+│   │   │   ├── degree_2021-10-26.png
+│   │   │   ├── degree_2021-10-27.png
+│   │   │   ├── degree_2021-10-28.png
+│   │   │   ├── degree_2021-10-29.png
+│   │   │   ├── degree_2021-10-30.png
+│   │   │   ├── degree_2021-10-31.png
+│   │   │   ├── degree_2021-11-01.png
+│   │   │   ├── degree_2021-11-02.png
+│   │   │   ├── degree_2021-11-03.png
+│   │   │   ├── degree_2021-11-04.png
+│   │   │   ├── degree_2021-11-05.png
+│   │   │   ├── degree_2021-11-06.png
+│   │   │   ├── degree_2021-11-07.png
+│   │   │   ├── degree_2021-11-08.png
+│   │   │   ├── degree_2021-11-09.png
+│   │   │   ├── degree_2021-11-10.png
+│   │   │   ├── degree_2021-11-11.png
+│   │   │   ├── degree_2021-11-12.png
+│   │   │   ├── degree_2021-11-13.png
+│   │   │   ├── degree_2021-11-14.png
+│   │   │   ├── degree_2021-11-15.png
+│   │   │   ├── degree_2021-11-16.png
+│   │   │   ├── degree_2021-11-17.png
+│   │   │   ├── degree_2021-11-18.png
+│   │   │   ├── degree_2021-11-19.png
+│   │   │   ├── degree_2021-11-20.png
+│   │   │   ├── degree_2021-11-21.png
+│   │   │   ├── degree_2021-11-22.png
+│   │   │   ├── degree_2021-11-23.png
+│   │   │   ├── degree_2021-11-24.png
+│   │   │   ├── degree_2021-11-25.png
+│   │   │   ├── degree_2021-11-26.png
+│   │   │   ├── degree_2021-11-27.png
+│   │   │   ├── degree_2021-11-28.png
+│   │   │   ├── degree_2021-11-29.png
+│   │   │   ├── degree_2021-11-30.png
+│   │   │   ├── degree_2021-12-01.png
+│   │   │   ├── degree_2021-12-02.png
+│   │   │   ├── degree_2021-12-03.png
+│   │   │   ├── degree_2021-12-04.png
+│   │   │   ├── degree_2021-12-05.png
+│   │   │   ├── degree_2021-12-06.png
+│   │   │   ├── degree_2021-12-07.png
+│   │   │   ├── degree_2021-12-08.png
+│   │   │   ├── degree_2021-12-09.png
+│   │   │   ├── degree_2021-12-10.png
+│   │   │   ├── degree_2021-12-11.png
+│   │   │   ├── degree_2021-12-12.png
+│   │   │   ├── degree_2021-12-13.png
+│   │   │   ├── degree_2021-12-14.png
+│   │   │   ├── degree_2021-12-15.png
+│   │   │   ├── degree_2021-12-16.png
+│   │   │   ├── degree_2021-12-17.png
+│   │   │   ├── degree_2021-12-18.png
+│   │   │   ├── degree_2021-12-19.png
+│   │   │   ├── degree_2021-12-20.png
+│   │   │   ├── degree_2021-12-21.png
+│   │   │   ├── degree_2021-12-22.png
+│   │   │   ├── degree_2021-12-23.png
+│   │   │   ├── degree_2021-12-24.png
+│   │   │   ├── degree_2021-12-25.png
+│   │   │   ├── degree_2021-12-26.png
+│   │   │   ├── degree_2021-12-27.png
+│   │   │   ├── degree_2021-12-28.png
+│   │   │   ├── degree_2021-12-29.png
+│   │   │   ├── degree_2021-12-30.png
+│   │   │   ├── degree_2021-12-31.png
+│   │   │   ├── degree_2022-01-01.png
+│   │   │   ├── degree_2022-01-02.png
+│   │   │   ├── degree_2022-01-03.png
+│   │   │   ├── degree_2022-01-04.png
+│   │   │   ├── degree_2022-01-05.png
+│   │   │   ├── degree_2022-01-06.png
+│   │   │   ├── degree_2022-01-07.png
+│   │   │   ├── degree_2022-01-08.png
+│   │   │   ├── degree_2022-01-09.png
+│   │   │   ├── degree_2022-01-10.png
+│   │   │   ├── degree_2022-01-11.png
+│   │   │   ├── degree_2022-01-12.png
+│   │   │   ├── degree_2022-01-13.png
+│   │   │   ├── degree_2022-01-14.png
+│   │   │   ├── degree_2022-01-15.png
+│   │   │   ├── degree_2022-01-16.png
+│   │   │   ├── degree_2022-01-17.png
+│   │   │   ├── degree_2022-01-18.png
+│   │   │   ├── degree_2022-01-19.png
+│   │   │   ├── degree_2022-01-20.png
+│   │   │   ├── degree_2022-01-21.png
+│   │   │   ├── degree_2022-01-22.png
+│   │   │   ├── degree_2022-01-23.png
+│   │   │   ├── degree_2022-01-24.png
+│   │   │   ├── degree_2022-01-25.png
+│   │   │   ├── degree_2022-01-26.png
+│   │   │   ├── degree_2022-01-27.png
+│   │   │   ├── degree_2022-01-28.png
+│   │   │   ├── degree_2022-01-29.png
+│   │   │   ├── degree_2022-01-30.png
+│   │   │   ├── degree_2022-01-31.png
+│   │   │   ├── degree_2022-02-01.png
+│   │   │   ├── degree_2022-02-02.png
+│   │   │   ├── degree_2022-02-03.png
+│   │   │   ├── degree_2022-02-04.png
+│   │   │   ├── degree_2022-02-05.png
+│   │   │   ├── degree_2022-02-06.png
+│   │   │   ├── degree_2022-02-07.png
+│   │   │   ├── degree_2022-02-08.png
+│   │   │   ├── degree_2022-02-09.png
+│   │   │   ├── degree_2022-02-10.png
+│   │   │   ├── degree_2022-02-11.png
+│   │   │   ├── degree_2022-02-12.png
+│   │   │   ├── degree_2022-02-13.png
+│   │   │   ├── degree_2022-02-14.png
+│   │   │   ├── degree_2022-02-15.png
+│   │   │   ├── degree_2022-02-16.png
+│   │   │   ├── degree_2022-02-17.png
+│   │   │   ├── degree_2022-02-18.png
+│   │   │   ├── degree_2022-02-19.png
+│   │   │   ├── degree_2022-02-20.png
+│   │   │   ├── degree_2022-02-21.png
+│   │   │   ├── degree_2022-02-22.png
+│   │   │   ├── degree_2022-02-23.png
+│   │   │   ├── degree_2022-02-24.png
+│   │   │   ├── degree_2022-02-25.png
+│   │   │   ├── degree_2022-02-26.png
+│   │   │   ├── degree_2022-02-27.png
+│   │   │   ├── degree_2022-02-28.png
+│   │   │   ├── degree_2022-03-01.png
+│   │   │   ├── degree_2022-03-02.png
+│   │   │   ├── degree_2022-03-03.png
+│   │   │   ├── degree_2022-03-04.png
+│   │   │   ├── degree_2022-03-05.png
+│   │   │   ├── degree_2022-03-06.png
+│   │   │   ├── degree_2022-03-07.png
+│   │   │   ├── degree_2022-03-08.png
+│   │   │   ├── degree_2022-03-09.png
+│   │   │   ├── degree_2022-03-10.png
+│   │   │   ├── degree_2022-03-11.png
+│   │   │   ├── degree_2022-03-12.png
+│   │   │   ├── degree_2022-03-13.png
+│   │   │   ├── degree_2022-03-14.png
+│   │   │   ├── degree_2022-03-15.png
+│   │   │   ├── degree_2022-03-16.png
+│   │   │   ├── degree_2022-03-17.png
+│   │   │   ├── degree_2022-03-18.png
+│   │   │   ├── degree_2022-03-19.png
+│   │   │   ├── degree_2022-03-20.png
+│   │   │   ├── degree_2022-03-21.png
+│   │   │   ├── degree_2022-03-22.png
+│   │   │   ├── degree_2022-03-23.png
+│   │   │   ├── degree_2022-03-24.png
+│   │   │   ├── degree_2022-03-25.png
+│   │   │   ├── degree_2022-03-26.png
+│   │   │   ├── degree_2022-03-27.png
+│   │   │   ├── degree_2022-03-28.png
+│   │   │   ├── degree_2022-03-29.png
+│   │   │   ├── degree_2022-03-30.png
+│   │   │   ├── degree_2022-03-31.png
+│   │   │   ├── degree_2022-04-01.png
+│   │   │   ├── degree_2022-04-02.png
+│   │   │   ├── degree_2022-04-03.png
+│   │   │   ├── degree_2022-04-04.png
+│   │   │   ├── degree_2022-04-05.png
+│   │   │   ├── degree_2022-04-06.png
+│   │   │   ├── degree_2022-04-07.png
+│   │   │   ├── degree_2022-04-08.png
+│   │   │   ├── degree_2022-04-09.png
+│   │   │   ├── degree_2022-04-10.png
+│   │   │   ├── degree_2022-04-11.png
+│   │   │   ├── degree_2022-04-12.png
+│   │   │   ├── degree_2022-04-13.png
+│   │   │   ├── degree_2022-04-14.png
+│   │   │   ├── degree_2022-04-15.png
+│   │   │   ├── degree_2022-04-16.png
+│   │   │   ├── degree_2022-04-17.png
+│   │   │   ├── degree_2022-04-18.png
+│   │   │   ├── degree_2022-04-19.png
+│   │   │   ├── degree_2022-04-20.png
+│   │   │   ├── degree_2022-04-21.png
+│   │   │   ├── degree_2022-04-22.png
+│   │   │   ├── degree_2022-04-23.png
+│   │   │   ├── degree_2022-04-24.png
+│   │   │   ├── degree_2022-04-25.png
+│   │   │   ├── degree_2022-04-26.png
+│   │   │   ├── degree_2022-04-27.png
+│   │   │   ├── degree_2022-04-28.png
+│   │   │   ├── degree_2022-04-29.png
+│   │   │   ├── degree_2022-04-30.png
+│   │   │   ├── degree_2022-05-01.png
+│   │   │   ├── degree_2022-05-02.png
+│   │   │   ├── degree_2022-05-03.png
+│   │   │   ├── degree_2022-05-04.png
+│   │   │   ├── degree_2022-05-05.png
+│   │   │   ├── degree_2022-05-06.png
+│   │   │   ├── degree_2022-05-07.png
+│   │   │   ├── degree_2022-05-08.png
+│   │   │   ├── degree_2022-05-09.png
+│   │   │   ├── degree_2022-05-10.png
+│   │   │   ├── degree_2022-05-11.png
+│   │   │   ├── degree_2022-05-12.png
+│   │   │   ├── degree_2022-05-13.png
+│   │   │   ├── degree_2022-05-14.png
+│   │   │   ├── degree_2022-05-15.png
+│   │   │   ├── degree_2022-05-16.png
+│   │   │   ├── degree_2022-05-17.png
+│   │   │   ├── degree_2022-05-18.png
+│   │   │   ├── degree_2022-05-19.png
+│   │   │   ├── degree_2022-05-20.png
+│   │   │   ├── degree_2022-05-21.png
+│   │   │   ├── degree_2022-05-22.png
+│   │   │   ├── degree_2022-05-23.png
+│   │   │   ├── degree_2022-05-24.png
+│   │   │   ├── degree_2022-05-25.png
+│   │   │   ├── degree_2022-05-26.png
+│   │   │   ├── degree_2022-05-27.png
+│   │   │   ├── degree_2022-05-28.png
+│   │   │   ├── degree_2022-05-29.png
+│   │   │   ├── degree_2022-05-30.png
+│   │   │   ├── degree_2022-05-31.png
+│   │   │   ├── degree_2022-06-01.png
+│   │   │   ├── degree_2022-06-02.png
+│   │   │   ├── degree_2022-06-03.png
+│   │   │   ├── degree_2022-06-04.png
+│   │   │   ├── degree_2022-06-05.png
+│   │   │   ├── degree_2022-06-06.png
+│   │   │   ├── degree_2022-06-07.png
+│   │   │   ├── degree_2022-06-08.png
+│   │   │   ├── degree_2022-06-09.png
+│   │   │   ├── degree_2022-06-10.png
+│   │   │   ├── degree_2022-06-11.png
+│   │   │   ├── degree_2022-06-12.png
+│   │   │   ├── degree_2022-06-13.png
+│   │   │   ├── degree_2022-06-14.png
+│   │   │   ├── degree_2022-06-15.png
+│   │   │   ├── degree_2022-06-16.png
+│   │   │   ├── degree_2022-06-17.png
+│   │   │   ├── degree_2022-06-18.png
+│   │   │   ├── degree_2022-06-19.png
+│   │   │   ├── degree_2022-06-20.png
+│   │   │   ├── degree_2022-06-21.png
+│   │   │   ├── degree_2022-06-22.png
+│   │   │   ├── degree_2022-06-23.png
+│   │   │   ├── degree_2022-06-24.png
+│   │   │   ├── degree_2022-06-25.png
+│   │   │   ├── degree_2022-06-26.png
+│   │   │   ├── degree_2022-06-27.png
+│   │   │   ├── degree_2022-06-28.png
+│   │   │   ├── degree_2022-06-29.png
+│   │   │   ├── degree_2022-06-30.png
+│   │   │   ├── degree_2022-07-01.png
+│   │   │   ├── degree_2022-07-03.png
+│   │   │   ├── degree_2022-09-22.png
+│   │   │   ├── degree_2022-09-23.png
+│   │   │   ├── degree_2022-09-24.png
+│   │   │   ├── degree_2022-09-25.png
+│   │   │   ├── degree_2022-10-11.png
+│   │   │   ├── degree_2022-10-12.png
+│   │   │   ├── degree_2022-10-13.png
+│   │   │   ├── degree_2022-10-14.png
+│   │   │   └── degree_2022-10-16.png
+│   │   ├── final_without_quotes.txt
+│   │   ├── final_with_sentiment.csv
+│   │   ├── G-2021-03-15.csv
+│   │   ├── G-2021-03-22.csv
+│   │   ├── G-2021-03-31.csv
+│   │   ├── G-2021-04-13.csv
+│   │   ├── G-2021-04-20.csv
+│   │   ├── G-2021-04-25.csv
+│   │   ├── G-2021-04-29.csv
+│   │   ├── G-2021-05-02.csv
+│   │   ├── G-2021-05-07.csv
+│   │   ├── G-2021-05-15.csv
+│   │   ├── G-2021-05-20.csv
+│   │   ├── G-2021-05-21.csv
+│   │   ├── G-2021-05-24.csv
+│   │   ├── G-2021-05-27.csv
+│   │   ├── G-2021-06-07.csv
+│   │   ├── G-2021-06-09.csv
+│   │   ├── G-2021-06-11.csv
+│   │   ├── G-2021-06-13.csv
+│   │   ├── G-2021-06-14.csv
+│   │   ├── G-2021-06-15.csv
+│   │   ├── G-2021-06-16.csv
+│   │   ├── G-2021-06-17.csv
+│   │   ├── G-2021-06-19.csv
+│   │   ├── G-2021-06-22.csv
+│   │   ├── G-2021-06-23.csv
+│   │   ├── G-2021-06-24.csv
+│   │   ├── G-2021-06-25.csv
+│   │   ├── G-2021-06-28.csv
+│   │   ├── G-2021-06-29.csv
+│   │   ├── G-2021-07-02.csv
+│   │   ├── G-2021-07-05.csv
+│   │   ├── G-2021-07-06.csv
+│   │   ├── G-2021-07-07.csv
+│   │   ├── G-2021-07-08.csv
+│   │   ├── G-2021-07-10.csv
+│   │   ├── G-2021-07-12.csv
+│   │   ├── G-2021-07-14.csv
+│   │   ├── G-2021-07-16.csv
+│   │   ├── G-2021-07-17.csv
+│   │   ├── G-2021-07-18.csv
+│   │   ├── G-2021-07-19.csv
+│   │   ├── G-2021-07-21.csv
+│   │   ├── G-2021-07-22.csv
+│   │   ├── G-2021-07-23.csv
+│   │   ├── G-2021-07-24.csv
+│   │   ├── G-2021-07-25.csv
+│   │   ├── G-2021-07-26.csv
+│   │   ├── G-2021-07-27.csv
+│   │   ├── G-2021-07-28.csv
+│   │   ├── G-2021-07-29.csv
+│   │   ├── G-2021-07-30.csv
+│   │   ├── G-2021-07-31.csv
+│   │   ├── G-2021-08-02.csv
+│   │   ├── G-2021-08-03.csv
+│   │   ├── G-2021-08-04.csv
+│   │   ├── G-2021-08-05.csv
+│   │   ├── G-2021-08-06.csv
+│   │   ├── G-2021-08-07.csv
+│   │   ├── G-2021-08-08.csv
+│   │   ├── G-2021-08-09.csv
+│   │   ├── G-2021-08-10.csv
+│   │   ├── G-2021-08-11.csv
+│   │   ├── G-2021-08-12.csv
+│   │   ├── G-2021-08-13.csv
+│   │   ├── G-2021-08-14.csv
+│   │   ├── G-2021-08-15.csv
+│   │   ├── G-2021-08-16.csv
+│   │   ├── G-2021-08-17.csv
+│   │   ├── G-2021-08-18.csv
+│   │   ├── G-2021-08-19.csv
+│   │   ├── G-2021-08-20.csv
+│   │   ├── G-2021-08-21.csv
+│   │   ├── G-2021-08-22.csv
+│   │   ├── G-2021-08-23.csv
+│   │   ├── G-2021-08-24.csv
+│   │   ├── G-2021-08-25.csv
+│   │   ├── G-2021-08-26.csv
+│   │   ├── G-2021-08-27.csv
+│   │   ├── G-2021-08-28.csv
+│   │   ├── G-2021-08-29.csv
+│   │   ├── G-2021-08-30.csv
+│   │   ├── G-2021-08-31.csv
+│   │   ├── G-2021-09-01.csv
+│   │   ├── G-2021-09-02.csv
+│   │   ├── G-2021-09-03.csv
+│   │   ├── G-2021-09-04.csv
+│   │   ├── G-2021-09-05.csv
+│   │   ├── G-2021-09-06.csv
+│   │   ├── G-2021-09-07.csv
+│   │   ├── G-2021-09-08.csv
+│   │   ├── G-2021-09-09.csv
+│   │   ├── G-2021-09-10.csv
+│   │   ├── G-2021-09-11.csv
+│   │   ├── G-2021-09-12.csv
+│   │   ├── G-2021-09-13.csv
+│   │   ├── G-2021-09-14.csv
+│   │   ├── G-2021-09-15.csv
+│   │   ├── G-2021-09-16.csv
+│   │   ├── G-2021-09-17.csv
+│   │   ├── G-2021-09-18.csv
+│   │   ├── G-2021-09-19.csv
+│   │   ├── G-2021-09-20.csv
+│   │   ├── G-2021-09-21.csv
+│   │   ├── G-2021-09-22.csv
+│   │   ├── G-2021-09-23.csv
+│   │   ├── G-2021-09-24.csv
+│   │   ├── G-2021-09-25.csv
+│   │   ├── G-2021-09-26.csv
+│   │   ├── G-2021-09-27.csv
+│   │   ├── G-2021-09-28.csv
+│   │   ├── G-2021-09-29.csv
+│   │   ├── G-2021-09-30.csv
+│   │   ├── G-2021-10-01.csv
+│   │   ├── G-2021-10-02.csv
+│   │   ├── G-2021-10-03.csv
+│   │   ├── G-2021-10-04.csv
+│   │   ├── G-2021-10-05.csv
+│   │   ├── G-2021-10-06.csv
+│   │   ├── G-2021-10-07.csv
+│   │   ├── G-2021-10-08.csv
+│   │   ├── G-2021-10-09.csv
+│   │   ├── G-2021-10-10.csv
+│   │   ├── G-2021-10-11.csv
+│   │   ├── G-2021-10-12.csv
+│   │   ├── G-2021-10-13.csv
+│   │   ├── G-2021-10-14.csv
+│   │   ├── G-2021-10-15.csv
+│   │   ├── G-2021-10-16.csv
+│   │   ├── G-2021-10-17.csv
+│   │   ├── G-2021-10-18.csv
+│   │   ├── G-2021-10-19.csv
+│   │   ├── G-2021-10-20.csv
+│   │   ├── G-2021-10-21.csv
+│   │   ├── G-2021-10-22.csv
+│   │   ├── G-2021-10-23.csv
+│   │   ├── G-2021-10-24.csv
+│   │   ├── G-2021-10-25.csv
+│   │   ├── G-2021-10-26.csv
+│   │   ├── G-2021-10-27.csv
+│   │   ├── G-2021-10-28.csv
+│   │   ├── G-2021-10-29.csv
+│   │   ├── G-2021-10-30.csv
+│   │   ├── G-2021-10-31.csv
+│   │   ├── G-2021-11-01.csv
+│   │   ├── G-2021-11-02.csv
+│   │   ├── G-2021-11-03.csv
+│   │   ├── G-2021-11-04.csv
+│   │   ├── G-2021-11-05.csv
+│   │   ├── G-2021-11-06.csv
+│   │   ├── G-2021-11-07.csv
+│   │   ├── G-2021-11-08.csv
+│   │   ├── G-2021-11-09.csv
+│   │   ├── G-2021-11-10.csv
+│   │   ├── G-2021-11-11.csv
+│   │   ├── G-2021-11-12.csv
+│   │   ├── G-2021-11-13.csv
+│   │   ├── G-2021-11-14.csv
+│   │   ├── G-2021-11-15.csv
+│   │   ├── G-2021-11-16.csv
+│   │   ├── G-2021-11-17.csv
+│   │   ├── G-2021-11-18.csv
+│   │   ├── G-2021-11-19.csv
+│   │   ├── G-2021-11-20.csv
+│   │   ├── G-2021-11-21.csv
+│   │   ├── G-2021-11-22.csv
+│   │   ├── G-2021-11-23.csv
+│   │   ├── G-2021-11-24.csv
+│   │   ├── G-2021-11-25.csv
+│   │   ├── G-2021-11-26.csv
+│   │   ├── G-2021-11-27.csv
+│   │   ├── G-2021-11-28.csv
+│   │   ├── G-2021-11-29.csv
+│   │   ├── G-2021-11-30.csv
+│   │   ├── G-2021-12-01.csv
+│   │   ├── G-2021-12-02.csv
+│   │   ├── G-2021-12-03.csv
+│   │   ├── G-2021-12-04.csv
+│   │   ├── G-2021-12-05.csv
+│   │   ├── G-2021-12-06.csv
+│   │   ├── G-2021-12-07.csv
+│   │   ├── G-2021-12-08.csv
+│   │   ├── G-2021-12-09.csv
+│   │   ├── G-2021-12-10.csv
+│   │   ├── G-2021-12-11.csv
+│   │   ├── G-2021-12-12.csv
+│   │   ├── G-2021-12-13.csv
+│   │   ├── G-2021-12-14.csv
+│   │   ├── G-2021-12-15.csv
+│   │   ├── G-2021-12-16.csv
+│   │   ├── G-2021-12-17.csv
+│   │   ├── G-2021-12-18.csv
+│   │   ├── G-2021-12-19.csv
+│   │   ├── G-2021-12-20.csv
+│   │   ├── G-2021-12-21.csv
+│   │   ├── G-2021-12-22.csv
+│   │   ├── G-2021-12-23.csv
+│   │   ├── G-2021-12-24.csv
+│   │   ├── G-2021-12-25.csv
+│   │   ├── G-2021-12-26.csv
+│   │   ├── G-2021-12-27.csv
+│   │   ├── G-2021-12-28.csv
+│   │   ├── G-2021-12-29.csv
+│   │   ├── G-2021-12-30.csv
+│   │   ├── G-2021-12-31.csv
+│   │   ├── G-2022-01-01.csv
+│   │   ├── G-2022-01-02.csv
+│   │   ├── G-2022-01-03.csv
+│   │   ├── G-2022-01-04.csv
+│   │   ├── G-2022-01-05.csv
+│   │   ├── G-2022-01-06.csv
+│   │   ├── G-2022-01-07.csv
+│   │   ├── G-2022-01-08.csv
+│   │   ├── G-2022-01-09.csv
+│   │   ├── G-2022-01-10.csv
+│   │   ├── G-2022-01-11.csv
+│   │   ├── G-2022-01-12.csv
+│   │   ├── G-2022-01-13.csv
+│   │   ├── G-2022-01-14.csv
+│   │   ├── G-2022-01-15.csv
+│   │   ├── G-2022-01-16.csv
+│   │   ├── G-2022-01-17.csv
+│   │   ├── G-2022-01-18.csv
+│   │   ├── G-2022-01-19.csv
+│   │   ├── G-2022-01-20.csv
+│   │   ├── G-2022-01-21.csv
+│   │   ├── G-2022-01-22.csv
+│   │   ├── G-2022-01-23.csv
+│   │   ├── G-2022-01-24.csv
+│   │   ├── G-2022-01-25.csv
+│   │   ├── G-2022-01-26.csv
+│   │   ├── G-2022-01-27.csv
+│   │   ├── G-2022-01-28.csv
+│   │   ├── G-2022-01-29.csv
+│   │   ├── G-2022-01-30.csv
+│   │   ├── G-2022-01-31.csv
+│   │   ├── G-2022-02-01.csv
+│   │   ├── G-2022-02-02.csv
+│   │   ├── G-2022-02-03.csv
+│   │   ├── G-2022-02-04.csv
+│   │   ├── G-2022-02-05.csv
+│   │   ├── G-2022-02-06.csv
+│   │   ├── G-2022-02-07.csv
+│   │   ├── G-2022-02-08.csv
+│   │   ├── G-2022-02-09.csv
+│   │   ├── G-2022-02-10.csv
+│   │   ├── G-2022-02-11.csv
+│   │   ├── G-2022-02-12.csv
+│   │   ├── G-2022-02-13.csv
+│   │   ├── G-2022-02-14.csv
+│   │   ├── G-2022-02-15.csv
+│   │   ├── G-2022-02-16.csv
+│   │   ├── G-2022-02-17.csv
+│   │   ├── G-2022-02-18.csv
+│   │   ├── G-2022-02-19.csv
+│   │   ├── G-2022-02-20.csv
+│   │   ├── G-2022-02-21.csv
+│   │   ├── G-2022-02-22.csv
+│   │   ├── G-2022-02-23.csv
+│   │   ├── G-2022-02-24.csv
+│   │   ├── G-2022-02-25.csv
+│   │   ├── G-2022-02-26.csv
+│   │   ├── G-2022-02-27.csv
+│   │   ├── G-2022-02-28.csv
+│   │   ├── G-2022-03-01.csv
+│   │   ├── G-2022-03-02.csv
+│   │   ├── G-2022-03-03.csv
+│   │   ├── G-2022-03-04.csv
+│   │   ├── G-2022-03-05.csv
+│   │   ├── G-2022-03-06.csv
+│   │   ├── G-2022-03-07.csv
+│   │   ├── G-2022-03-08.csv
+│   │   ├── G-2022-03-09.csv
+│   │   ├── G-2022-03-10.csv
+│   │   ├── G-2022-03-11.csv
+│   │   ├── G-2022-03-12.csv
+│   │   ├── G-2022-03-13.csv
+│   │   ├── G-2022-03-14.csv
+│   │   ├── G-2022-03-15.csv
+│   │   ├── G-2022-03-16.csv
+│   │   ├── G-2022-03-17.csv
+│   │   ├── G-2022-03-18.csv
+│   │   ├── G-2022-03-19.csv
+│   │   ├── G-2022-03-20.csv
+│   │   ├── G-2022-03-21.csv
+│   │   ├── G-2022-03-22.csv
+│   │   ├── G-2022-03-23.csv
+│   │   ├── G-2022-03-24.csv
+│   │   ├── G-2022-03-25.csv
+│   │   ├── G-2022-03-26.csv
+│   │   ├── G-2022-03-27.csv
+│   │   ├── G-2022-03-28.csv
+│   │   ├── G-2022-03-29.csv
+│   │   ├── G-2022-03-30.csv
+│   │   ├── G-2022-03-31.csv
+│   │   ├── G-2022-04-01.csv
+│   │   ├── G-2022-04-02.csv
+│   │   ├── G-2022-04-03.csv
+│   │   ├── G-2022-04-04.csv
+│   │   ├── G-2022-04-05.csv
+│   │   ├── G-2022-04-06.csv
+│   │   ├── G-2022-04-07.csv
+│   │   ├── G-2022-04-08.csv
+│   │   ├── G-2022-04-09.csv
+│   │   ├── G-2022-04-10.csv
+│   │   ├── G-2022-04-11.csv
+│   │   ├── G-2022-04-12.csv
+│   │   ├── G-2022-04-13.csv
+│   │   ├── G-2022-04-14.csv
+│   │   ├── G-2022-04-15.csv
+│   │   ├── G-2022-04-16.csv
+│   │   ├── G-2022-04-17.csv
+│   │   ├── G-2022-04-18.csv
+│   │   ├── G-2022-04-19.csv
+│   │   ├── G-2022-04-20.csv
+│   │   ├── G-2022-04-21.csv
+│   │   ├── G-2022-04-22.csv
+│   │   ├── G-2022-04-23.csv
+│   │   ├── G-2022-04-24.csv
+│   │   ├── G-2022-04-25.csv
+│   │   ├── G-2022-04-26.csv
+│   │   ├── G-2022-04-27.csv
+│   │   ├── G-2022-04-28.csv
+│   │   ├── G-2022-04-29.csv
+│   │   ├── G-2022-04-30.csv
+│   │   ├── G-2022-05-01.csv
+│   │   ├── G-2022-05-02.csv
+│   │   ├── G-2022-05-03.csv
+│   │   ├── G-2022-05-04.csv
+│   │   ├── G-2022-05-05.csv
+│   │   ├── G-2022-05-06.csv
+│   │   ├── G-2022-05-07.csv
+│   │   ├── G-2022-05-08.csv
+│   │   ├── G-2022-05-09.csv
+│   │   ├── G-2022-05-10.csv
+│   │   ├── G-2022-05-11.csv
+│   │   ├── G-2022-05-12.csv
+│   │   ├── G-2022-05-13.csv
+│   │   ├── G-2022-05-14.csv
+│   │   ├── G-2022-05-15.csv
+│   │   ├── G-2022-05-16.csv
+│   │   ├── G-2022-05-17.csv
+│   │   ├── G-2022-05-18.csv
+│   │   ├── G-2022-05-19.csv
+│   │   ├── G-2022-05-20.csv
+│   │   ├── G-2022-05-21.csv
+│   │   ├── G-2022-05-22.csv
+│   │   ├── G-2022-05-23.csv
+│   │   ├── G-2022-05-24.csv
+│   │   ├── G-2022-05-25.csv
+│   │   ├── G-2022-05-26.csv
+│   │   ├── G-2022-05-27.csv
+│   │   ├── G-2022-05-28.csv
+│   │   ├── G-2022-05-29.csv
+│   │   ├── G-2022-05-30.csv
+│   │   ├── G-2022-05-31.csv
+│   │   ├── G-2022-10-16.csv
+│   │   ├── G.csv
+│   │   ├── index.csv
+│   │   ├── normaldata2.txt
+│   │   ├── old2.py
+│   │   └── output.log
+│   ├── output.log
+│   └── 折线图
+│       ├── 1
+│       │   ├── 1.py
+│       │   ├── degree
+│       │   │   ├── all_files_degree_distribution.png
+│       │   │   ├── all_files_degree_distribution_smooth.png
+│       │   │   ├── all_files_degree_distribution_smooth_with_legend.png
+│       │   │   ├── G-2022-05-29_degree_distribution.png
+│       │   │   ├── G-2022-05-29_log_degree_distribution.png
+│       │   │   └── G-2022-09-18.csv
+│       │   ├── test3.py
+│       │   ├── xian
+│       │   │   ├── degree
+│       │   │   ├── G-2021-08-08.csv
+│       │   │   ├── G-2022-03-06.csv
+│       │   │   ├── G-2022-05-29.csv
+│       │   │   └── test1.py
+│       │   └── yin
+│       │       ├── 2.py
+│       │       ├── degree
+│       │       ├── output.log
+│       │       └── test2.py
+│       ├── 2
+│       │   ├── xian
+│       │   │   ├── 2xainshi.py
+│       │   │   ├── degree
+│       │   │   ├── G-2021-08-08.csv
+│       │   │   ├── G-2022-03-06.csv
+│       │   │   └── G-2022-05-29.csv
+│       │   └── yin
+│       │       ├── 2yinshi.py
+│       │       ├── degree
+│       │       ├── G-2022-04-10.csv
+│       │       ├── G-2022-06-12.csv
+│       │       └── G-2022-09-18.csv
+│       ├── 3
+│       │   └── 3.py
+│       └── G-2022-05-29.csv
+├── output.txt
+└── test
+    ├── edge_log.csv
+    ├── matched_nodes_explicit_faster2.csv
+    ├── matched_nodes_implicit_faster2.csv
+    ├── Output2.log
+    ├── Output.log
+    ├── top10_percent_xianshi.csv
+    ├── top10_percent_yinshi.csv
+    ├── xiugai2.py
+    └── xiugai.py
+
+19 directories, 1755 files
